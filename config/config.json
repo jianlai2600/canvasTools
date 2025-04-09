@@ -1,0 +1,29 @@
+{
+    "title": "Encando Dev (Local)",
+    "scopes": [],
+    "extensions": [
+      {
+        "domain": "localhost",
+        "tool_id": "encando-local-dev",
+        "platform": "canvas.instructure.com",
+        "settings": {
+          "text": "Encando",
+          "placements": [
+            {
+              "placement": "course_navigation",
+              "message_type": "LtiResourceLinkRequest",
+              "target_link_uri": "http://localhost:5000/lti/launch",
+              "text": "Encando",
+              "enabled": true,
+              "visibility": "members",
+              "windowTarget": "_self"
+            }
+          ]
+        }
+      }
+    ],
+    "public_jwk_url": "http://localhost:5000/.well-known/jwks.json",
+    "target_link_uri": "http://localhost:5000/lti/launch",
+    "oidc_initiation_url": "http://localhost:5000/lti/oidc",
+    "description": "Encando Dev (Local)"
+  }
