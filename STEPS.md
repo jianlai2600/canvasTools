@@ -105,3 +105,9 @@ Step	Purpose	What Canvas Does
 3. Developer Key	Register tool into Canvas system	Generates a Client ID
 4. Install in Course	Make the tool available in one or more courses	Adds navigation link to sidebar
 5. Test SSO Launch	Verify full login + tool rendering	Launches your Encando UI with context
+
+# Process
+https://lms.tamu.edu/tools/third-party-tool-request-process
+
+# Contact
+https://lms.tamu.edu/governance#Academic-Liaisons
